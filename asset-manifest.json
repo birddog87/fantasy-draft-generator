@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fantasy-draft-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/fantasy-draft-generator/static/js/main.242ea9e0.js",
+    "static/js/453.d65da080.chunk.js": "/fantasy-draft-generator/static/js/453.d65da080.chunk.js",
+    "index.html": "/fantasy-draft-generator/index.html",
+    "main.e6c13ad2.css.map": "/fantasy-draft-generator/static/css/main.e6c13ad2.css.map",
+    "main.242ea9e0.js.map": "/fantasy-draft-generator/static/js/main.242ea9e0.js.map",
+    "453.d65da080.chunk.js.map": "/fantasy-draft-generator/static/js/453.d65da080.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.242ea9e0.js"
+  ]
+}
