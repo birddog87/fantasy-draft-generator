@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fantasy-draft-generator/static/css/main.c627b9b4.css",
-    "main.js": "/fantasy-draft-generator/static/js/main.de5bc77e.js",
+    "main.css": "/fantasy-draft-generator/static/css/main.92d98dee.css",
+    "main.js": "/fantasy-draft-generator/static/js/main.d29a1a45.js",
     "static/js/453.d65da080.chunk.js": "/fantasy-draft-generator/static/js/453.d65da080.chunk.js",
     "index.html": "/fantasy-draft-generator/index.html",
-    "main.c627b9b4.css.map": "/fantasy-draft-generator/static/css/main.c627b9b4.css.map",
-    "main.de5bc77e.js.map": "/fantasy-draft-generator/static/js/main.de5bc77e.js.map",
+    "main.92d98dee.css.map": "/fantasy-draft-generator/static/css/main.92d98dee.css.map",
+    "main.d29a1a45.js.map": "/fantasy-draft-generator/static/js/main.d29a1a45.js.map",
     "453.d65da080.chunk.js.map": "/fantasy-draft-generator/static/js/453.d65da080.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c627b9b4.css",
-    "static/js/main.de5bc77e.js"
+    "static/css/main.92d98dee.css",
+    "static/js/main.d29a1a45.js"
   ]
 }
